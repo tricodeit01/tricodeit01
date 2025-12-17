@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tricode%20IT&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Engineering%20Excellence%20in%20Digital%20Solutions&descAlignY=51&descAlign=50"/>
 
 <br/>
@@ -123,48 +122,49 @@ We transform ideas into scalable, production-ready applications that drive busin
 
 ## 🎯 Our Expertise
 
-const TriCodeIT = {
-headquarters: "Bangladesh",
-specialization: ["Full-Stack Development", "Cloud Architecture", "DevOps"],
-domains: ["E-Commerce", "Fintech", "SaaS", "Inventory Management"],
+<table>
+<tr>
+<td width="50%">
 
-text
-services: {
-    consulting: [
-        "Technical Architecture", 
-        "Code Review & Audit", 
-        "Performance Optimization"
-    ],
-    development: [
-        "MVP to Production", 
-        "Product Scaling", 
-        "Legacy Modernization",
-        "API Development"
-    ],
-    support: [
-        "24/7 Maintenance", 
-        "Bug Fixes & Debugging", 
-        "Feature Enhancements",
-        "Security Audits"
-    ]
-},
+**🎓 Specialization**
+- Full-Stack Development
+- Cloud Architecture
+- DevOps & CI/CD
 
-achievements: {
-    projectsDelivered: "50+",
-    clientSatisfaction: "98%",
-    teamExpertise: "10+ Years Combined",
-    activeClients: "30+"
-},
+**🏢 Domains**
+- E-Commerce Platforms
+- Fintech Applications
+- SaaS Products
+- Inventory Management
 
-techStack: {
-    frontend: ["Next.js", "React", "TypeScript", "Tailwind CSS"],
-    backend: ["Node.js", "Express", "MongoDB", "Firebase"],
-    mobile: ["React Native"],
-    cloud: ["Vercel", "AWS", "Firebase Hosting"]
-}
-};
+**💼 Services**
+- Technical Architecture
+- MVP to Production
+- Code Review & Audit
+- 24/7 Maintenance
 
-text
+</td>
+<td width="50%">
+
+**📈 Achievements**
+- 50+ Projects Delivered
+- 98% Client Satisfaction
+- 10+ Years Combined Experience
+- 30+ Active Clients
+
+**🛠️ Tech Stack**
+- Frontend: Next.js, React, TypeScript
+- Backend: Node.js, Express, MongoDB
+- Mobile: React Native
+- Cloud: Vercel, AWS, Firebase
+
+**🌍 Location**
+- Headquarters: Bangladesh
+- Remote-First Company
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -205,20 +205,7 @@ text
 
 ## 💡 Our Process
 
-graph LR
-A[Discovery] --> B[Design]
-B --> C[Development]
-C --> D[Testing]
-D --> E[Deployment]
-E --> F[Support]
-style A fill:#58A6FF
-style B fill:#1F6FEB
-style C fill:#58A6FF
-style D fill:#1F6FEB
-style E fill:#58A6FF
-style F fill:#1F6FEB
-
-text
+**Discovery** → **Design** → **Development** → **Testing** → **Deployment** → **Support**
 
 ---
 
