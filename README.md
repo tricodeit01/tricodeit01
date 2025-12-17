@@ -5,8 +5,8 @@
 
 <br/>
 
-[![Website](https://img.shields.io/badge/🌐_Website-Visit_Us-0078D4?style=for-the-badge)]([https://tricodeit.com](https://tricode-it.vercel.app/))
-[![Email](https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge)](mailto:tricodeit01@gmail.com)
+[![Website](https://img.shields.io/badge/🌐_Website-Visit_Us-0078D4?style=for-the-badge)](https://tricodeit.com)
+[![Email](https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge)](mailto:info@tricodeit.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/tricodeit)
 [![Portfolio](https://img.shields.io/badge/📁_Portfolio-View_Work-FF6B35?style=for-the-badge)](https://tricodeit.com/portfolio)
 
@@ -123,3 +123,132 @@ We transform ideas into scalable, production-ready applications that drive busin
 
 ## 🎯 Our Expertise
 
+const TriCodeIT = {
+headquarters: "Bangladesh",
+specialization: ["Full-Stack Development", "Cloud Architecture", "DevOps"],
+domains: ["E-Commerce", "Fintech", "SaaS", "Inventory Management"],
+
+text
+services: {
+    consulting: [
+        "Technical Architecture", 
+        "Code Review & Audit", 
+        "Performance Optimization"
+    ],
+    development: [
+        "MVP to Production", 
+        "Product Scaling", 
+        "Legacy Modernization",
+        "API Development"
+    ],
+    support: [
+        "24/7 Maintenance", 
+        "Bug Fixes & Debugging", 
+        "Feature Enhancements",
+        "Security Audits"
+    ]
+},
+
+achievements: {
+    projectsDelivered: "50+",
+    clientSatisfaction: "98%",
+    teamExpertise: "10+ Years Combined",
+    activeClients: "30+"
+},
+
+techStack: {
+    frontend: ["Next.js", "React", "TypeScript", "Tailwind CSS"],
+    backend: ["Node.js", "Express", "MongoDB", "Firebase"],
+    mobile: ["React Native"],
+    cloud: ["Vercel", "AWS", "Firebase Hosting"]
+}
+};
+
+text
+
+---
+
+## 🌟 Featured Projects
+
+> 📌 **Pin your top 6 repositories** on the organization overview page to showcase your best work!
+
+**How to pin repos:**
+1. Go to your organization profile: `github.com/tricodeit01`
+2. Click "Customize pins" on the right sidebar
+3. Select your best 6 projects
+
+---
+
+## 🏆 Why Choose Tricode IT?
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/rocket.png" width="64"/>
+<h3>Fast Delivery</h3>
+<p>Agile methodology with 2-week sprints</p>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/code.png" width="64"/>
+<h3>Clean Code</h3>
+<p>Best practices, scalable architecture</p>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/technical-support.png" width="64"/>
+<h3>Ongoing Support</h3>
+<p>Post-launch maintenance & updates</p>
+</td>
+</tr>
+</table>
+
+---
+
+## 💡 Our Process
+
+graph LR
+A[Discovery] --> B[Design]
+B --> C[Development]
+C --> D[Testing]
+D --> E[Deployment]
+E --> F[Support]
+style A fill:#58A6FF
+style B fill:#1F6FEB
+style C fill:#58A6FF
+style D fill:#1F6FEB
+style E fill:#58A6FF
+style F fill:#1F6FEB
+
+text
+
+---
+
+## 📞 Let's Build Something Amazing Together
+
+<div align="center">
+
+### 🚀 Ready to elevate your digital presence?
+
+**🌐 Website:** [www.tricodeit.com](https://tricodeit.com)  
+**📧 Email:** [info@tricodeit.com](mailto:info@tricodeit.com)  
+**💼 LinkedIn:** [Tricode IT](https://linkedin.com/company/tricodeit)  
+**📱 WhatsApp:** [+880-XXX-XXXXXX](https://wa.me/880XXXXXXXXX)  
+**🐦 Twitter/X:** [@tricodeit](https://twitter.com/tricodeit)
+
+<br/>
+
+### 📅 **Schedule a Free Consultation**
+
+[![Book Meeting](https://img.shields.io/badge/📅_Book_Meeting-Schedule_Now-4CAF50?style=for-the-badge)](https://calendly.com/tricodeit)
+
+<br/>
+
+---
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=tricodeit01&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/stars/tricodeit01?style=for-the-badge&color=FFD700" alt="Total stars" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+</div>
