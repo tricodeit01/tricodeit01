@@ -1,55 +1,125 @@
-<!-- Banner (optional) -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Tricode IT banner" />
-</p>
+<div align="center">
 
-<h1 align="center">Tricode IT (tricodeit01)</h1>
-<p align="center"><b>Building reliable web products, APIs, and automation for modern businesses.</b></p>
+<!-- BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tricode%20IT&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Engineering%20Excellence%20in%20Digital%20Solutions&descAlignY=51&descAlign=50"/>
 
-<p align="center">
-  <a href="YOUR_WEBSITE">Website</a> •
-  <a href="YOUR_CONTACT_PAGE">Contact</a> •
-  <a href="YOUR_LINKEDIN">LinkedIn</a> •
-  <a href="YOUR_TWITTER">X/Twitter</a>
-</p>
+<br/>
 
----
+[![Website](https://img.shields.io/badge/🌐_Website-Visit_Us-0078D4?style=for-the-badge)](https://tricodeit.com)
+[![Email](https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge)](mailto:info@tricodeit.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/tricodeit)
+[![Portfolio](https://img.shields.io/badge/📁_Portfolio-View_Work-FF6B35?style=for-the-badge)](https://tricodeit.com/portfolio)
 
-## What we do
-- Custom web applications (Next.js / React)
-- Backend & API development (Node.js / Express)
-- Database design & optimization (MongoDB / SQL)
-- Auth, payments, and integrations
-- Deployment, monitoring, and DevOps support
+<br/>
 
-## Services
-- Product MVP to production
-- E-commerce & inventory systems
-- Admin dashboards & internal tools
-- Maintenance, refactoring, performance tuning
+### 🚀 **Enterprise-Grade Web Solutions | Full-Stack Development | Cloud Architecture**
 
-## Tech stack
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="36" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="36" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="36" />
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" height="36" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="36" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" height="36" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="36" />
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="36" />
-</p>
+We transform ideas into scalable, production-ready applications that drive business growth.
 
-## Featured work
-Pin your best 6 repositories on the org profile (GitHub → org → Overview → “Customize pins”). [web:23]
+<br/>
 
-## Contact
-- Email: YOUR_EMAIL
-- Work inquiries: YOUR_CONTACT_PAGE
+</div>
 
 ---
 
-<!-- Optional: Org stats cards (works, but org stats may be less meaningful than pinned repos) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tricodeit01&show_icons=true&theme=transparent" alt="tricodeit01 stats" />
+## 💼 What We Build
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛒 **E-Commerce Platforms**
+- Multi-vendor marketplaces
+- Payment gateway integration (Stripe, PayPal, UddoktaPay)
+- Real-time inventory management
+- Admin dashboards & analytics
+
+</td>
+<td width="50%">
+
+### 🏢 **Enterprise Applications**
+- Custom CRM/ERP systems
+- Inventory & POS solutions
+- Banking & fintech platforms
+- Automated workflow tools
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📱 **Web & Mobile Apps**
+- Progressive Web Apps (PWA)
+- React Native mobile apps
+- Responsive UI/UX design
+- Cross-platform solutions
+
+</td>
+<td width="50%">
+
+### ⚙️ **Backend & DevOps**
+- RESTful API development
+- Database architecture & optimization
+- Cloud deployment (Vercel/AWS)
+- CI/CD pipelines
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Technology Stack
+
+<div align="center">
+
+### **Frontend**
+<p>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </p>
+
+### **Backend**
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+</p>
+
+### **Tools & Deployment**
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tricodeit01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tricodeit01&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=C9D1D9" />
+</div>
+
+<div align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tricodeit01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=tricodeit01&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B35" />
+</div>
+
+---
+
+## 🎯 Our Expertise
+
