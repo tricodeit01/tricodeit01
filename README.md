@@ -4,10 +4,10 @@
 
 <br/>
 
-[![Website](https://img.shields.io/badge/🌐_Website-Visit_Us-0078D4?style=for-the-badge)](https://tricodeit.com)
-[![Email](https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge)](mailto:info@tricodeit.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/tricodeit)
-[![Portfolio](https://img.shields.io/badge/📁_Portfolio-View_Work-FF6B35?style=for-the-badge)](https://tricodeit.com/portfolio)
+[![Website](https://img.shields.io/badge/🌐_Website-Visit_Us-0078D4?style=for-the-badge)](https://tricode-it.vercel.app/)
+[![Email](https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge)](mailto:tricodeit01@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tri-code-it/)
+[![Portfolio](https://img.shields.io/badge/📁_Portfolio-View_Work-FF6B35?style=for-the-badge)](https://tricode-it.vercel.app/#portfolio)
 
 <br/>
 
